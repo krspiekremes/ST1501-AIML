@@ -1,2 +1,2 @@
 # ST1501-AIML
-SP AI and Machine Learning Module
+AI and Machine Learning
